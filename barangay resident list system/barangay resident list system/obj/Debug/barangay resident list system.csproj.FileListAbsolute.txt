@@ -1,0 +1,6 @@
+C:\Users\katleen G\OneDrive\Documents\SharpDevelop Projects\barangay resident list system\barangay resident list system\bin\Debug\barangay resident list system.exe.config
+C:\Users\katleen G\OneDrive\Documents\SharpDevelop Projects\barangay resident list system\barangay resident list system\bin\Debug\barangay resident list system.exe
+C:\Users\katleen G\OneDrive\Documents\SharpDevelop Projects\barangay resident list system\barangay resident list system\bin\Debug\barangay resident list system.pdb
+C:\Users\katleen G\OneDrive\Documents\SharpDevelop Projects\barangay resident list system\barangay resident list system\obj\Debug\barangay resident list system.csprojResolveAssemblyReference.cache
+C:\Users\katleen G\OneDrive\Documents\SharpDevelop Projects\barangay resident list system\barangay resident list system\obj\Debug\barangay resident list system.exe
+C:\Users\katleen G\OneDrive\Documents\SharpDevelop Projects\barangay resident list system\barangay resident list system\obj\Debug\barangay resident list system.pdb
